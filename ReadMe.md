@@ -22,13 +22,11 @@
 
 # Me
 <p align="center"> 
-    Its me</a>
+  <a href="https://pastebin.com/u/charlie2krazy">My PasteBin</a>
     ﹒
-    <a href="https://discord.com/users/768633822685822996">My discord</a>
+    <a href="https://discord.com/users/768633822685822996">My Discord</a>
     ﹒
     <a href="https://discord.gg/property">Discord Server</a>
-    ﹒
-    <a href="https://twitter.com/charlie2wavvy">Twitter Account</a>
     ﹒
     <a href="https://9anime.to/">Free HD anime to watch</a>
     ﹒
@@ -37,5 +35,6 @@
     
 # About me
 Im a pro edater so don't mess with me </br>
-Currently learning how to fuck bitches and get money </br>
-Send me friend requests on discord, Give me free esex <3, Follow me on twitter, Join my support server. </br>
+Currently learning how to code better</br>
+Send me friend requests on discord, Give me free food 
+<3, Follow me on twitter, Join my support server. </br>
